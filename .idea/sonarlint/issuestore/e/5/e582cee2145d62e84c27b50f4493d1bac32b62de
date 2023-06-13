@@ -1,0 +1,9 @@
+
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(±Ê‰ñ8óÙùş‰1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºãÕÿûÿÿÿÿ8Ñªóş‰1
+Y
+java:S1854"7Remove this useless assignment to local variable "str".(™® †ÿÿÿÿÿ8º¬ùş‰1
+J
+java:S1481"(Remove this unused "str" local variable.(™® †ÿÿÿÿÿ8½¬ùş‰1
+]	java:S125/"<This block of commented-out lines of code should be removed.(¢ï¿˜øÿÿÿÿ8ù«óş‰1

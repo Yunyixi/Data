@@ -1,0 +1,15 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(•ÿÓÓşÿÿÿÿ
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‡îû
+`	java:S112Z"FDefine and throw a dedicated exception instead of using a generic one.(êÔÉøÿÿÿÿ
+`	java:S112X"FDefine and throw a dedicated exception instead of using a generic one.(Îëáêùÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğ£º
+n	java:S116"TRename this field "Defaulist" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÅÏÚùÿÿÿÿ
+t
+java:S30126"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(÷ï’Âûÿÿÿÿ
+n
+java:S3012?"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Çèä-
+D
+java:S1656?"/Remove or correct this useless self-assignment.(Çèä-
+1
+java:S3626]"Remove this redundant jump.(ûÁİ…
